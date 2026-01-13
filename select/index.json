@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ポジティブ☆ダンスタイム",
+  "base_artist": "ワンダーランズ×ショウタイム",
+  "createdAt": "2026-01-13T11:39:50.333364Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ポジティブ☆ダンスタイム",
+      "artist": "kinoshita",
+      "has_synced": true,
+      "path": "select/01_ポジティブ☆ダンスタイム_kinoshita.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ポジティブ☆ダンスタイム",
+      "artist": "キノシタ",
+      "has_synced": false,
+      "path": "select/02_ポジティブ☆ダンスタイム_キノシタ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ポジティブ☆ダンスタイム - Positive☆Dance Time (feat. Otomachi Una",
+      "artist": "Kinoshita",
+      "has_synced": false,
+      "path": "select/03_ポジティブ☆ダンスタイム_-_Positive☆Dance_Time_(feat._Otomachi_Una_Kinoshita.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ポジティブ☆ダンスタイム",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/04_ポジティブ☆ダンスタイム_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ポジティブ☆ダンスタイム",
+      "artist": "キノシタ",
+      "has_synced": true,
+      "path": "select/05_ポジティブ☆ダンスタイム_キノシタ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ポジティブ☆ダンスタイム",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/pl_01_ポジティブ☆ダンスタイム_ワンダーランズ×ショウタイム.txt"
+    }
+  ]
+}
